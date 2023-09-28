@@ -69,4 +69,4 @@ SQL> SELECT * FROM salary_log;
 ![Output](/exp5_DBMS-3.png)
 
 ### Result:
-The program has been implemented successfully.
+The program has been successfully implemented.
